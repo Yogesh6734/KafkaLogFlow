@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# JVM crash logs
+hs_err_pid*
+
+# Java package files
+*.jar
+*.war
+*.ear
